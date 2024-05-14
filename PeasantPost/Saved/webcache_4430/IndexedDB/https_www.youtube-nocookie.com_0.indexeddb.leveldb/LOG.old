@@ -1,0 +1,6 @@
+2024/05/13-17:56:15.272 5b9c Creating DB C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/13-17:56:15.312 5b9c Reusing MANIFEST C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/13-17:56:23.275 3ffc Level-0 table #5: started
+2024/05/13-17:56:23.286 3ffc Level-0 table #5: 1167 bytes OK
+2024/05/13-17:56:23.289 3ffc Delete type=0 #3
+2024/05/13-17:56:23.290 3ffc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
