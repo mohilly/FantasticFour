@@ -110,6 +110,8 @@
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_EquipWeapon.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_UnequipWeapons.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_UnequipWeapon.uasset",
+				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Decorators/BTD_HasWeapon.uasset",
+				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_ClearFocus.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyRanged.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/BP_EnemyRanged.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Ranged/Sprites/Enemies_RANGE_Anim_Walk_Right.uasset",
