@@ -1829,3 +1829,443 @@ Script Stack (0 frames) :
 [2024.06.07-07.26.33:990][696]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyMudMonster.BT_EnemyMudMonster
 [2024.06.07-07.28.15:980][175]LogSlate: Window 'Color Picker' being destroyed
 [2024.06.07-07.28.26:795][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.07-07.31.08:149][424]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-07.31.08:149][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-07.31.09:523][482]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-07.31.09:523][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-07.31.14:663][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.07-07.31.20:060][896]LogContentBrowser: Deferred new asset file creation: BT_EnemyBasic1
+[2024.06.07-07.31.20:087][896]LogContentBrowser: Creating deferred item: BT_EnemyBasic1
+[2024.06.07-07.31.20:108][897]LogContentBrowser: Renaming the item being created (Deferred Item: BT_EnemyBasic1).
+[2024.06.07-07.31.30:610][362]LogContentBrowser: Attempting asset rename: BT_EnemyBasic1 -> BT_EnemyChameleon
+[2024.06.07-07.31.30:615][362]LogContentBrowser: End creating deferred item BT_EnemyBasic1
+[2024.06.07-07.31.32:701][451]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-07.31.34:663][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.31.34:721][526]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-07.31.34:722][526]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleonDCB65AB341AA65CBE22E538AE6ACA488.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-07.31.34:729][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.21 sec)
+[2024.06.07-07.31.34:729][526]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-07.31.34:729][526]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-07.35.21:715][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.06.07-07.35.21:717][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_LevelConstruction1_MiaTest' took 0.031
+[2024.06.07-07.35.21:717][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon] ([1] browsable assets)...
+[2024.06.07-07.35.21:717][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon]
+[2024.06.07-07.35.21:735][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon_Auto8
+[2024.06.07-07.35.21:735][236]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleon_Auto8947D8BBA4199B0F1790954917AC9A006.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Autosaves/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon_Auto8.uasset'
+[2024.06.07-07.35.21:736][236]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.06.07-07.45.21:896][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.06.07-07.45.21:900][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_LevelConstruction1_MiaTest' took 0.031
+[2024.06.07-07.45.21:900][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon] ([1] browsable assets)...
+[2024.06.07-07.45.21:900][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon]
+[2024.06.07-07.45.21:918][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon_Auto9
+[2024.06.07-07.45.21:918][940]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleon_Auto9A42B1EB44E457F443F6EE3AC38B33F9D.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Autosaves/Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon_Auto9.uasset'
+[2024.06.07-07.45.21:919][940]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.06.07-07.46.56:524][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.46.56:591][962]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Decorators/BTD_IsAttacking
+[2024.06.07-07.46.56:592][962]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTD_IsAttacking9A113CE94BCE49CCB8FEC5ACCDF2EEE0.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Decorators/BTD_IsAttacking.uasset'
+[2024.06.07-07.46.56:597][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.29 sec)
+[2024.06.07-07.46.56:599][962]AssetCheck: New page: Asset Save: BTD_IsAttacking
+[2024.06.07-07.46.56:599][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Decorators/BTD_IsAttacking.BTD_IsAttacking
+[2024.06.07-07.47.14:266][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_DefaultAttack.BTT_DefaultAttack
+[2024.06.07-07.47.14:268][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.47.14:268][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.47.34:350][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.07-07.47.34:356][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.47.34:433][568]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-07.47.34:434][568]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleonC79F20E44ED8DDB768AFB992C7EE7C8E.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-07.47.34:440][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.37 sec)
+[2024.06.07-07.47.34:444][568]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-07.47.34:444][568]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-07.50.26:357][ 53]LogSlate: Window 'Save Asset As' being destroyed
+[2024.06.07-07.50.29:139][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_SetMovementSpeed.BTT_SetMovementSpeed
+[2024.06.07-07.50.29:139][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.50.29:139][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.50.50:399][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.50.50:459][ 85]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetMovementSpeed
+[2024.06.07-07.50.50:461][ 85]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetMovementSpeedE4E294864EF68B4CBC472287757521C1.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetMovementSpeed.uasset'
+[2024.06.07-07.50.50:470][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.44 sec)
+[2024.06.07-07.50.50:471][ 85]AssetCheck: New page: Asset Save: BTT_SetMovementSpeed
+[2024.06.07-07.50.50:471][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetMovementSpeed.BTT_SetMovementSpeed
+[2024.06.07-07.51.12:099][401]LogSlate: Window 'Save Asset As' being destroyed
+[2024.06.07-07.51.12:137][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.51.12:137][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.51.12:137][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.51.12:284][401]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/Tasks/BTT_SetVisibility.
+[2024.06.07-07.51.51:709][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-07.51.51:710][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.51.51:710][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.52.04:299][666]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.06.07-07.52.04:358][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.07-07.52.04:886][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.52.04:938][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.06.07-07.52.04:945][686]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2024.06.07-07.52.04:946][686]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BPI_EnemyAI8906562D416B0AC0BF0A9388ED588FA4.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2024.06.07-07.52.04:957][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.51 sec)
+[2024.06.07-07.52.04:959][686]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2024.06.07-07.52.04:959][686]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-07.52.40:412][243]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.06.07-07.52.40:471][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.06.07-07.52.54:828][886]BlueprintLog: New page: Compile BTT_SetVisibility
+[2024.06.07-07.52.54:873][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.06.07-07.52.55:533][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.52.55:576][913]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-07.52.55:576][913]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibility37E2644C49E2AF5446CD1BBFDE14F439.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-07.52.55:577][913]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/Tasks/BTT_SetVisibility.
+[2024.06.07-07.52.55:586][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.56 sec)
+[2024.06.07-07.52.55:587][913]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-07.52.55:587][913]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.54.13:510][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_MoveToIdealRange.BTT_MoveToIdealRange
+[2024.06.07-07.54.13:510][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.54.13:510][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.54.18:906][469]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-07.54.18:906][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-07.54.20:502][537]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.06.07-07.54.20:567][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.06.07-07.54.20:920][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.54.20:983][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.06.07-07.54.20:990][550]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2024.06.07-07.54.20:991][550]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BPI_EnemyAI906A76FE4931C2332C610DBEB92E55AC.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2024.06.07-07.54.21:001][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.65 sec)
+[2024.06.07-07.54.21:003][550]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2024.06.07-07.54.21:003][550]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-07.54.21:391][567]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.06.07-07.54.21:442][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.07-07.54.30:295][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.54.30:349][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.06.07-07.54.30:356][945]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2024.06.07-07.54.30:358][945]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BPI_EnemyAI0D90AF564715B50CAFBCD0993C8FDE6A.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2024.06.07-07.54.30:366][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.72 sec)
+[2024.06.07-07.54.30:368][945]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2024.06.07-07.54.30:368][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-07.54.50:442][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.54.50:499][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.06.07-07.54.50:508][821]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2024.06.07-07.54.50:509][821]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BPI_EnemyAI07A006E645E64F27D68639A8DF07F0A1.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2024.06.07-07.54.50:516][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.79 sec)
+[2024.06.07-07.54.50:518][821]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2024.06.07-07.54.50:518][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-07.55.05:939][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-07.55.05:940][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-07.55.05:941][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-07.56.03:130][541]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-07.56.03:241][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.06.07-07.56.03:929][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.04:015][561]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-07.56.04:016][561]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharDDD349124AE8BD6A85075BB3256E0B6D.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-07.56.04:023][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.88 sec)
+[2024.06.07-07.56.04:025][561]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-07.56.04:025][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-07.56.07:753][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.07:822][705]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-07.56.07:823][705]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicChar712783FB44D0FB3B0B9FE89A311A91B4.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-07.56.07:829][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.96 sec)
+[2024.06.07-07.56.07:831][705]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-07.56.07:831][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-07.56.49:814][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.49:890][395]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-07.56.49:891][395]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibility72002E9F4CCBF1D403B6CAB44AF91E08.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-07.56.49:897][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.04 sec)
+[2024.06.07-07.56.49:898][395]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-07.56.49:898][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.56.50:136][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.50:204][406]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-07.56.50:205][406]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibility535685284DC3E650581FDC9B4DFEC34D.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-07.56.50:213][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.12 sec)
+[2024.06.07-07.56.50:214][406]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-07.56.50:214][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.56.57:883][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.57:952][742]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-07.56.57:953][742]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibility616B7EBA46991AAF414271AA6B6C6BAD.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-07.56.57:960][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.20 sec)
+[2024.06.07-07.56.57:962][742]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-07.56.57:962][742]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.56.58:278][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.56.58:332][756]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-07.56.58:333][756]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibilityDE28BC054B78056BF0AB3BB7FAB7F173.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-07.56.58:344][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.26 sec)
+[2024.06.07-07.56.58:346][756]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-07.56.58:346][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-07.57.59:799][240]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.06.07-07.58.01:014][282]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.06.07-07.58.01:045][282]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.06.07-07.58.01:061][283]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.06.07-07.58.08:133][595]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_Visibility
+[2024.06.07-07.58.08:144][595]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.06.07-07.58.10:053][673]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-07.58.11:456][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.58.11:516][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-07.58.11:518][733]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-07.58.11:518][733]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_Visibility1B01C051494E5510D6BE8CAD4DBE3B62.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-07.58.11:530][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.34 sec)
+[2024.06.07-07.58.11:531][733]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-07.58.11:531][733]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-07.58.29:253][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.58.29:313][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-07.58.29:315][576]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-07.58.29:316][576]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_VisibilityFC118F3B43E477274E161797A01935BF.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-07.58.29:326][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.41 sec)
+[2024.06.07-07.58.29:328][576]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-07.58.29:328][576]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-07.58.29:676][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.58.29:747][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-07.58.29:749][593]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-07.58.29:750][593]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_Visibility2772BDD64E42D572E1D8128979B1F1EF.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-07.58.29:757][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 3.49 sec)
+[2024.06.07-07.58.29:759][593]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-07.58.29:760][593]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-07.59.21:760][791]LogSlate: Took 0.000810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.07-07.59.29:027][ 98]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.06.07-07.59.29:108][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.07-07.59.29:149][ 98]LogBlueprint: Warning: [AssetLog] C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Content\Enemies\Enemy_Basic\BP_EnemyBasicChar.uasset: [Compiler] Pasted node  SetVisibility_1   conflicted with  Event Set Visibility  and was replaced as a Custom Event!
+[2024.06.07-07.59.29:150][ 98]LogBlueprint: Warning: [BP_EnemyBasicChar] 'SetVisibility' was promoted from an event to a function - it has been replaced by a custom event, which won't trigger unless you call it manually.
+[2024.06.07-07.59.29:770][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-07.59.29:821][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.06.07-07.59.29:846][120]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2024.06.07-07.59.29:847][120]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BPI_EnemyAI19157B024E0DD7817C22AE9F588CD740.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2024.06.07-07.59.29:854][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.58 sec)
+[2024.06.07-07.59.29:856][120]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2024.06.07-07.59.29:856][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.06.07-08.00.16:579][ 14]BlueprintLog: New page: Compile BTT_SetVisibility
+[2024.06.07-08.00.16:639][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.07-08.00.16:965][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.00.17:023][ 26]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-08.00.17:024][ 26]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibility58068D8146B94BE16C15ACB1319BC691.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-08.00.17:032][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.64 sec)
+[2024.06.07-08.00.17:033][ 26]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-08.00.17:033][ 26]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-08.00.24:662][320]BlueprintLog: New page: Compile BTT_SetVisibility
+[2024.06.07-08.00.24:718][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.07-08.00.26:351][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.06.07-08.00.26:358][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.00.26:444][379]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.00.26:445][379]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharEB882ADC4B029376F719068DE536F639.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.00.26:462][379]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-08.00.26:463][379]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleonE2559EB74FC5BA893768DD946EB12ECE.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-08.00.26:470][379]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-08.00.26:471][379]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibilityEC17213140E82D9DA134E8BE27905830.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-08.00.26:476][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.76 sec)
+[2024.06.07-08.00.26:481][379]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-08.00.26:481][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.00.26:481][379]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-08.00.26:481][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-08.01.14:567][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.01.14:637][292]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-08.01.14:638][292]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleonBE5CF66948A756AF52533DB743EC400D.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-08.01.14:644][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.84 sec)
+[2024.06.07-08.01.14:644][292]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-08.01.14:644][292]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-08.01.57:544][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.01.57:620][ 52]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-08.01.57:621][ 52]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleonE7CF8AFF4AF962651A799D8E1A0200DD.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-08.01.57:631][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 3.93 sec)
+[2024.06.07-08.01.57:633][ 52]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-08.01.57:633][ 52]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-08.02.47:163][ 44]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.02.47:163][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.02.50:954][197]BlueprintLog: New page: Compile BTT_SetVisibility
+[2024.06.07-08.02.51:017][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.06.07-08.02.51:353][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.02.51:415][209]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_SetVisibility
+[2024.06.07-08.02.51:416][209]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BTT_SetVisibilityB927063A492F082DC85D5BAB9FE30F5E.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_SetVisibility.uasset'
+[2024.06.07-08.02.51:424][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.00 sec)
+[2024.06.07-08.02.51:426][209]AssetCheck: New page: Asset Save: BTT_SetVisibility
+[2024.06.07-08.02.51:426][209]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/AI/Tasks/BTT_SetVisibility.BTT_SetVisibility
+[2024.06.07-08.02.55:788][387]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.02.55:788][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.02.56:837][426]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.02.56:837][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.03.05:649][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.03.05:704][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-08.03.05:706][813]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-08.03.05:706][813]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_VisibilityE73FCDBD4863EE5DFEB14F869EB07B6E.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-08.03.05:717][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.07 sec)
+[2024.06.07-08.03.05:718][813]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-08.03.05:718][813]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-08.03.15:585][232]LogEditorTransaction: Undo Delete current selection
+[2024.06.07-08.04.56:525][224]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.04.56:559][224]LogBlueprint: Error: [AssetLog] C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Content\Enemies\Enemy_Basic\BP_EnemyBasicChar.uasset: [Compiler] Event node  SetVisibility_1_1  is out-of-date.  Please refresh it.
+[2024.06.07-08.04.56:624][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.06.07-08.05.47:910][301]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.05.47:941][301]LogBlueprint: Error: [AssetLog] C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Content\Enemies\Enemy_Basic\BP_EnemyBasicChar.uasset: [Compiler] Event node  SetVisibility_1_1  is out-of-date.  Please refresh it.
+[2024.06.07-08.05.48:007][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.07-08.05.48:581][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.05.48:668][322]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.05.48:669][322]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicChar35D56E584AE5F74BDD97C4AA95F5E314.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.05.48:677][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.16 sec)
+[2024.06.07-08.05.48:679][322]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.05.48:679][322]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.05.50:918][419]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.05.50:946][419]LogBlueprint: Error: [AssetLog] C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Content\Enemies\Enemy_Basic\BP_EnemyBasicChar.uasset: [Compiler] Event node  SetVisibility_1_1  is out-of-date.  Please refresh it.
+[2024.06.07-08.05.51:012][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.07-08.05.51:089][420]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.05.51:106][420]LogBlueprint: Error: [AssetLog] C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Content\Enemies\Enemy_Basic\BP_EnemyBasicChar.uasset: [Compiler] Event node  SetVisibility_1_1  is out-of-date.  Please refresh it.
+[2024.06.07-08.05.51:168][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.07-08.05.57:491][678]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.05.57:587][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.07-08.05.58:846][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.05.58:929][725]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.05.58:930][725]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicChar14C961F7490F9AD9503DC1BF68E46ED9.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.05.58:939][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.25 sec)
+[2024.06.07-08.05.58:941][725]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.05.58:942][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.06.02:879][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.02:961][885]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.06.02:962][885]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicChar46A5C2144DB7539C29A22EA1B3EBB91C.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.06.02:971][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.35 sec)
+[2024.06.07-08.06.02:973][885]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.06.02:973][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.06.18:149][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.18:247][492]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.06.18:248][492]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharFD1E265C4F7F32503E282A9D218B7EE3.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.06.18:254][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.45 sec)
+[2024.06.07-08.06.18:255][492]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.06.18:255][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.06.26:505][845]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.06.26:602][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.07-08.06.47:012][697]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-08.06.50:979][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.51:024][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-08.06.51:027][885]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-08.06.51:028][885]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_VisibilityDDD8BE3249B1870FBFCD0BA9BF1CE1F9.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-08.06.51:037][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 4.51 sec)
+[2024.06.07-08.06.51:039][885]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-08.06.51:039][885]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-08.06.51:518][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.51:558][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/ENUMs/E_Visibility" FILE="../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset" SILENT=true
+[2024.06.07-08.06.51:562][909]LogSavePackage: Moving output files for package: /Game/Enemies/AI/ENUMs/E_Visibility
+[2024.06.07-08.06.51:564][909]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/E_Visibility02F1E035450C2731C406C089A01B9E3B.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/ENUMs/E_Visibility.uasset'
+[2024.06.07-08.06.51:569][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 4.56 sec)
+[2024.06.07-08.06.51:571][909]AssetCheck: New page: Asset Save: E_Visibility
+[2024.06.07-08.06.51:571][909]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Enemies/AI/ENUMs/E_Visibility.E_Visibility
+[2024.06.07-08.06.57:490][159]BlueprintLog: New page: Compile BP_EnemyBasicChar
+[2024.06.07-08.06.57:584][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.06.07-08.06.58:387][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.58:471][188]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.06.58:472][188]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicChar22DE929348FC813FDBAE0481D6B3E38E.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.06.58:479][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.65 sec)
+[2024.06.07-08.06.58:481][188]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.06.58:481][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.06.58:793][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.58:874][202]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.06.58:875][202]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharB69D35654B921C0BE8FF849AE53A7796.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.06.58:882][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.74 sec)
+[2024.06.07-08.06.58:885][202]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.06.58:885][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.06.58:977][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.06.59:069][207]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.06.59:070][207]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharC4E351B1489C0536DE5BBFB62F4A4901.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.06.59:077][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.84 sec)
+[2024.06.07-08.06.59:079][207]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.06.59:079][207]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.07.04:297][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.07.04:439][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.07-08.07.05:086][427]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.05:087][427]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTes45207B30486B9E6F16636AABFEEFBB19.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-08.07.05:115][427]LogFileHelpers: All files are already saved.
+[2024.06.07-08.07.05:115][427]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.760
+[2024.06.07-08.07.05:121][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 824 ms (total: 5.67 sec)
+[2024.06.07-08.07.05:128][427]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.05:128][427]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.09:514][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.07-08.07.09:610][613]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.07-08.07.09:620][613]LogPlayLevel: [PlayLevel] Compiling BPI_EnemyAI before play...
+[2024.06.07-08.07.09:661][613]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.06.07-08.07.09:695][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.06.07-08.07.09:699][613]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (2 blueprints)
+[2024.06.07-08.07.09:699][613]PIE: New page: PIE session: Level1_LevelConstruction1_MiaTest (7 Jun 2024, 10:07:09)
+[2024.06.07-08.07.09:700][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.09:810][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110445s)
+[2024.06.07-08.07.09:811][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest to /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest (0.110481s)
+[2024.06.07-08.07.09:828][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.07-08.07.09:830][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-08.07.09:830][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-08.07.09:830][613]LogAIModule: Creating AISystem for world Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.09:831][613]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2024.06.07-08.07.09:831][613]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-08.07.09:831][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-08.07.09:831][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-08.07.09:832][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-08.07.09:832][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-08.07.09:832][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-08.07.09:835][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-08.07.09:867][613]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Conexant ISST Audio)
+[2024.06.07-08.07.09:867][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-08.07.09:867][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-08.07.09:868][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-08.07.09:868][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.07-08.07.09:868][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.07-08.07.09:870][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.07-08.07.09:870][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.07-08.07.09:870][613]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.07-08.07.09:870][613]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1_LevelConstruction1_MiaTest'.
+[2024.06.07-08.07.09:870][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.07-08.07.09:877][613]LogLoad: Game class is 'GM_Base_C'
+[2024.06.07-08.07.09:939][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest up for play (max tick rate 60) at 2024.06.07-09.07.09
+[2024.06.07-08.07.09:942][613]LogWorld: Bringing up level for play took: 0.063968
+[2024.06.07-08.07.09:944][613]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:947][613]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.07.09:948][613]PIE: Server logged in
+[2024.06.07-08.07.09:949][613]PIE: Play in editor total start time 0.407 seconds.
+[2024.06.07-08.07.26:464][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.07.26:464][247]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.26:466][247]LogWorld: UWorld::CleanupWorld for Level1_LevelConstruction1_MiaTest, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.07.26:473][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.07.26:477][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-08.07.26:484][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.07.26:506][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-08.07.26:509][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.07-08.07.26:509][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.07-08.07.26:512][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.07-08.07.26:518][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.07.26:534][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.07-08.07.26:598][248]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.07-08.07.28:318][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.07.28:457][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.06.07-08.07.29:096][316]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.29:097][316]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTesD502B76142444675085FBE8A85A51552.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-08.07.29:115][316]LogFileHelpers: All files are already saved.
+[2024.06.07-08.07.29:115][316]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.735
+[2024.06.07-08.07.29:119][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 800 ms (total: 6.47 sec)
+[2024.06.07-08.07.29:125][316]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.07.29:125][316]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.08.29:557][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.08.29:641][  5]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.08.29:642][  5]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharAEBCC6BA4DDB9F4E8705B3BDB4771828.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.08.29:647][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.56 sec)
+[2024.06.07-08.08.29:649][  5]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.08.29:649][  5]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.08.29:883][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.08.29:976][ 16]LogSavePackage: Moving output files for package: /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar
+[2024.06.07-08.08.29:977][ 16]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyBasicCharAB649A4446F0157B2A0BCCA6680288F0.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Enemy_Basic/BP_EnemyBasicChar.uasset'
+[2024.06.07-08.08.29:984][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 6.66 sec)
+[2024.06.07-08.08.29:986][ 16]AssetCheck: New page: Asset Save: BP_EnemyBasicChar
+[2024.06.07-08.08.29:986][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Enemy_Basic/BP_EnemyBasicChar.BP_EnemyBasicChar
+[2024.06.07-08.08.32:378][116]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.08.32:380][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.08.58:788][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.08.58:869][201]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-08.08.58:870][201]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleon846D018C460278B839C3C8A04A267F2C.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-08.08.58:880][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.75 sec)
+[2024.06.07-08.08.58:882][201]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-08.08.58:882][201]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-08.09.50:577][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.09.50:648][345]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon
+[2024.06.07-08.09.50:649][345]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BT_EnemyChameleon9EF34FB94E23B7F225A1B081FF434CFC.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.uasset'
+[2024.06.07-08.09.50:658][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.83 sec)
+[2024.06.07-08.09.50:660][345]AssetCheck: New page: Asset Save: BT_EnemyChameleon
+[2024.06.07-08.09.50:660][345]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemies/AI/BehaviourTrees/BT_EnemyChameleon.BT_EnemyChameleon
+[2024.06.07-08.11.29:098][623]LogDerivedDataCache: C:/Users/ad9235/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.320 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1518 files in 2581 folders with total size 77 MiB.
+[2024.06.07-08.15.41:920][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-08.17.17:804][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.07-08.21.01:348][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
