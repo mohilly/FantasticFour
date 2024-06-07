@@ -7052,3 +7052,585 @@ Script Stack (0 frames) :
 [2024.06.07-08.51.42:417][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 799 ms (total: 18.5 sec)
 [2024.06.07-08.51.42:423][159]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
 [2024.06.07-08.51.42:423][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.58.02:192][904]BlueprintLog: New page: Compile BP_EnemyChameleon
+[2024.06.07-08.58.02:273][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.06.07-08.58.02:984][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.58.03:033][931]LogSavePackage: Moving output files for package: /Game/Enemies/Chameleon/BP_EnemyChameleon
+[2024.06.07-08.58.03:034][931]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyChameleon653F8A1B48E367039035DB83B3E0D621.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/Chameleon/BP_EnemyChameleon.uasset'
+[2024.06.07-08.58.03:052][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 18.5 sec)
+[2024.06.07-08.58.03:054][931]AssetCheck: New page: Asset Save: BP_EnemyChameleon
+[2024.06.07-08.58.03:054][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/Chameleon/BP_EnemyChameleon.BP_EnemyChameleon
+[2024.06.07-08.58.39:711][396]BlueprintLog: New page: Compile BP_EnemyMudMonster
+[2024.06.07-08.58.39:783][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.07-08.58.41:505][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.58.41:580][461]LogSavePackage: Moving output files for package: /Game/Enemies/MudMonster/BP_EnemyMudMonster
+[2024.06.07-08.58.41:581][461]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyMudMonster412ACC6247BA02424451D5B4A50F2249.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/MudMonster/BP_EnemyMudMonster.uasset'
+[2024.06.07-08.58.41:590][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 18.6 sec)
+[2024.06.07-08.58.41:591][461]AssetCheck: New page: Asset Save: BP_EnemyMudMonster
+[2024.06.07-08.58.41:591][461]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/MudMonster/BP_EnemyMudMonster.BP_EnemyMudMonster
+[2024.06.07-08.58.41:819][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.58.41:887][471]LogSavePackage: Moving output files for package: /Game/Enemies/MudMonster/BP_EnemyMudMonster
+[2024.06.07-08.58.41:889][471]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyMudMonsterD742E7DD4B5152298064E4BE2E108886.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/MudMonster/BP_EnemyMudMonster.uasset'
+[2024.06.07-08.58.41:897][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 18.7 sec)
+[2024.06.07-08.58.41:900][471]AssetCheck: New page: Asset Save: BP_EnemyMudMonster
+[2024.06.07-08.58.41:900][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/MudMonster/BP_EnemyMudMonster.BP_EnemyMudMonster
+[2024.06.07-08.59.40:563][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.59.40:631][ 44]LogSavePackage: Moving output files for package: /Game/Enemies/MudMonster/BP_EnemyMudMonster
+[2024.06.07-08.59.40:632][ 44]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyMudMonster019F08A348E797BC7D19ECB0C3AFAF2C.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/MudMonster/BP_EnemyMudMonster.uasset'
+[2024.06.07-08.59.40:642][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 18.8 sec)
+[2024.06.07-08.59.40:647][ 44]AssetCheck: New page: Asset Save: BP_EnemyMudMonster
+[2024.06.07-08.59.40:647][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/MudMonster/BP_EnemyMudMonster.BP_EnemyMudMonster
+[2024.06.07-08.59.49:052][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.06.07-08.59.50:180][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.07-08.59.50:224][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-08.59.50:224][437]PIE: New page: PIE session: Level1_LevelConstruction1_MiaTest (7 Jun 2024, 10:59:50)
+[2024.06.07-08.59.50:224][437]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.59.50:343][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119090s)
+[2024.06.07-08.59.50:343][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest to /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest (0.119123s)
+[2024.06.07-08.59.50:359][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.06.07-08.59.50:360][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-08.59.50:360][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-08.59.50:360][437]LogAIModule: Creating AISystem for world Level1_LevelConstruction1_MiaTest
+[2024.06.07-08.59.50:361][437]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2024.06.07-08.59.50:361][437]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-08.59.50:361][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-08.59.50:361][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-08.59.50:361][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-08.59.50:361][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-08.59.50:361][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-08.59.50:364][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-08.59.50:391][437]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Conexant ISST Audio)
+[2024.06.07-08.59.50:391][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-08.59.50:391][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-08.59.50:391][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-08.59.50:392][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.07-08.59.50:392][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.07-08.59.50:394][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.07-08.59.50:394][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.07-08.59.50:394][437]LogInit: FAudioDevice initialized with ID 9.
+[2024.06.07-08.59.50:394][437]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1_LevelConstruction1_MiaTest'.
+[2024.06.07-08.59.50:394][437]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.07-08.59.50:395][437]LogLoad: Game class is 'GM_Base_C'
+[2024.06.07-08.59.50:458][437]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest up for play (max tick rate 60) at 2024.06.07-09.59.50
+[2024.06.07-08.59.50:463][437]LogWorld: Bringing up level for play took: 0.067662
+[2024.06.07-08.59.50:466][437]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:469][437]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-08.59.50:470][437]PIE: Server logged in
+[2024.06.07-08.59.50:470][437]PIE: Play in editor total start time 0.265 seconds.
+[2024.06.07-08.59.55:523][610]LogOutputDevice: Warning: 
+
+Script Stack (3 frames) :
+/Game/Enemies/Chameleon/BP_EnemyChameleon.BP_EnemyChameleon_C.SetMovementSpeed
+/Game/Enemies/AI/Tasks/BTT_SetMovementSpeed.BTT_SetMovementSpeed_C.ExecuteUbergraph_BTT_SetMovementSpeed
+/Game/Enemies/AI/Tasks/BTT_SetMovementSpeed.BTT_SetMovementSpeed_C.ReceiveExecuteAI
+
+[2024.06.07-08.59.55:584][610]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.061 s
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: === Handled ensure: ===
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: 
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass)  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 897] 
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: Type mismatch: Expected BP_EnemyChameleon_C, Found REINST_BP_EnemyChameleon_C_720
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: Stack: 
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4f1db188 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4d39a37f UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4d9c62ea UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629dbba6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ebb70 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ba7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa62989da1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ba1e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629b64d4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ba7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa62989da1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ba1e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629ba7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629b9777 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa626ad280 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa629b828f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa3c07f971 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa3c051cda UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa3bfd6281 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa3bff05f2 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa3c006644 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4f30c658 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4f41b695 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa50bf87eb UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:584][610]LogOutputDevice: Error: [Callstack] 0x00007ffa50bffd32 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa61211c9f UnrealEditor-Core.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa612120bb UnrealEditor-Core.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa50c27269 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa50c30bfe UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4fce9839 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4fcf7077 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4cdd58f8 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffa4da2ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b618af2 UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b63d28c UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b63d37a UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b640854 UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b656984 UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ff75b659d7a UnrealEditor.exe!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffae6f97344 KERNEL32.DLL!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: [Callstack] 0x00007ffae77826b1 ntdll.dll!UnknownFunction []
+[2024.06.07-08.59.55:585][610]LogOutputDevice: Error: 
+[2024.06.07-08.59.55:591][610]LogStats:                SubmitErrorReport -  0.000 s
+[2024.06.07-09.00.01:314][610]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.06.07-09.00.01:314][610]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=9
+[2024.06.07-09.00.01:315][610]LogStats:                    SendNewReport -  5.725 s
+[2024.06.07-09.00.01:315][610]LogStats:             FDebug::EnsureFailed -  5.793 s
+[2024.06.07-09.00.01:317][610]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24856
+[2024.06.07-09.00.01:317][610]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17976
+[2024.06.07-09.00.01:610][619]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{611feea0-fc98-45ca-ac9a-662934958b67}, Name=Speakers (Conexant ISST Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=281.20
+[2024.06.07-09.00.01:611][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.07-09.00.01:618][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.07-09.00.01:622][619]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{611feea0-fc98-45ca-ac9a-662934958b67}, Name=Speakers (Conexant ISST Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=9, DurationMS=281.67
+[2024.06.07-09.00.01:623][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.07-09.00.01:628][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.07-09.00.19:009][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-09.00.19:009][278]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.00.19:011][278]LogWorld: UWorld::CleanupWorld for Level1_LevelConstruction1_MiaTest, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-09.00.19:018][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-09.00.19:022][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-09.00.19:030][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-09.00.19:050][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-09.00.19:058][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.07-09.00.19:058][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.07-09.00.19:060][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.07-09.00.19:079][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.07-09.00.19:155][279]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.06.07-09.00.53:040][685]BlueprintLog: New page: Compile BP_EnemyMudMonster
+[2024.06.07-09.00.53:111][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.06.07-09.00.53:494][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.00.53:570][696]LogSavePackage: Moving output files for package: /Game/Enemies/MudMonster/BP_EnemyMudMonster
+[2024.06.07-09.00.53:571][696]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyMudMonster07C1339641D61DB068981BAB3EB9E016.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/MudMonster/BP_EnemyMudMonster.uasset'
+[2024.06.07-09.00.53:581][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 18.9 sec)
+[2024.06.07-09.00.53:586][696]AssetCheck: New page: Asset Save: BP_EnemyMudMonster
+[2024.06.07-09.00.53:586][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/MudMonster/BP_EnemyMudMonster.BP_EnemyMudMonster
+[2024.06.07-09.00.54:467][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.00.54:538][733]LogSavePackage: Moving output files for package: /Game/Enemies/MudMonster/BP_EnemyMudMonster
+[2024.06.07-09.00.54:539][733]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/BP_EnemyMudMonster1C2937B8484A9AC0C76EF9ACBA459AFD.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/MudMonster/BP_EnemyMudMonster.uasset'
+[2024.06.07-09.00.54:545][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 19.0 sec)
+[2024.06.07-09.00.54:546][733]AssetCheck: New page: Asset Save: BP_EnemyMudMonster
+[2024.06.07-09.00.54:547][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/MudMonster/BP_EnemyMudMonster.BP_EnemyMudMonster
+[2024.06.07-09.01.10:799][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.01.10:935][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.07-09.01.11:574][354]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.11:575][354]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTes94F8CE3F4B0F6A53379CB5A1E6FB1108.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-09.01.11:594][354]LogFileHelpers: All files are already saved.
+[2024.06.07-09.01.11:594][354]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.741
+[2024.06.07-09.01.11:599][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 799 ms (total: 19.8 sec)
+[2024.06.07-09.01.11:607][354]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.11:607][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.13:642][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.01.13:778][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.07-09.01.14:409][428]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.14:410][428]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTesC107F1DF45D596903D611FAFFBF8194C.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-09.01.14:428][428]LogFileHelpers: All files are already saved.
+[2024.06.07-09.01.14:428][428]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.726
+[2024.06.07-09.01.14:434][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 792 ms (total: 20.5 sec)
+[2024.06.07-09.01.14:442][428]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.14:442][428]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.14:664][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.07-09.01.14:725][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-09.01.14:725][436]PIE: New page: PIE session: Level1_LevelConstruction1_MiaTest (7 Jun 2024, 11:01:14)
+[2024.06.07-09.01.14:725][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.14:839][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114271s)
+[2024.06.07-09.01.14:840][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest to /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest (0.114327s)
+[2024.06.07-09.01.14:856][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.07-09.01.14:857][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-09.01.14:858][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-09.01.14:858][436]LogAIModule: Creating AISystem for world Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.14:859][436]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2024.06.07-09.01.14:859][436]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-09.01.14:859][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-09.01.14:859][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-09.01.14:859][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-09.01.14:859][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-09.01.14:859][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-09.01.14:861][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-09.01.14:886][436]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Conexant ISST Audio)
+[2024.06.07-09.01.14:887][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-09.01.14:887][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-09.01.14:887][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-09.01.14:888][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.06.07-09.01.14:888][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.06.07-09.01.14:889][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.06.07-09.01.14:889][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.06.07-09.01.14:889][436]LogInit: FAudioDevice initialized with ID 10.
+[2024.06.07-09.01.14:889][436]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1_LevelConstruction1_MiaTest'.
+[2024.06.07-09.01.14:890][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.07-09.01.14:891][436]LogLoad: Game class is 'GM_Base_C'
+[2024.06.07-09.01.14:955][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest up for play (max tick rate 60) at 2024.06.07-10.01.14
+[2024.06.07-09.01.14:960][436]LogWorld: Bringing up level for play took: 0.068370
+[2024.06.07-09.01.14:962][436]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:965][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.07-09.01.14:966][436]PIE: Server logged in
+[2024.06.07-09.01.14:967][436]PIE: Play in editor total start time 0.276 seconds.
+[2024.06.07-09.01.26:748][866]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:777][867]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:804][868]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:833][869]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:863][870]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:886][871]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:920][872]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:950][873]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.26:978][874]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:005][875]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:032][876]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:056][877]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:088][878]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:115][879]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:136][880]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:168][881]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:194][882]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:215][883]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:254][884]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:275][885]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:301][886]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:326][887]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:348][888]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:380][889]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:401][890]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:433][891]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:454][892]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:478][893]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:499][894]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:538][895]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:558][896]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:586][897]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:616][898]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:643][899]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:670][900]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:696][901]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:716][902]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:750][903]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:770][904]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:796][905]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:816][906]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:852][907]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:873][908]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:904][909]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:933][910]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:965][911]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.27:996][912]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:025][913]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:055][914]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:086][915]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:118][916]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:148][917]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:177][918]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:209][919]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:239][920]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:272][921]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:306][922]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:337][923]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:369][924]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:401][925]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:432][926]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:463][927]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:499][928]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:526][929]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:557][930]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:591][931]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:622][932]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:655][933]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:686][934]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:718][935]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:750][936]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:783][937]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:816][938]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:845][939]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:874][940]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:904][941]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:934][942]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:965][943]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.28:994][944]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:023][945]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:053][946]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:084][947]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:114][948]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:144][949]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:173][950]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:203][951]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:234][952]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:265][953]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:294][954]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:323][955]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:353][956]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:384][957]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:416][958]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:446][959]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:475][960]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:507][961]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:537][962]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:570][963]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:604][964]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.29:636][965]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.30:028][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Character/BP_Postman.BP_Postman_C:ExecuteUbergraph_BP_Postman'!
+[2024.06.07-09.01.30:028][979]LogScript: Warning: Script Msg called by: BP_Postman_C /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_Postman_C_0
+[2024.06.07-09.01.33:737][118]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:765][119]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:790][120]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:820][121]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:845][122]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:865][123]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:899][124]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:920][125]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:949][126]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:977][127]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.33:999][128]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:031][129]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:059][130]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:086][131]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:112][132]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:133][133]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:166][134]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:187][135]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:217][136]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:244][137]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:265][138]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:304][139]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:325][140]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:352][141]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:378][142]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:399][143]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:433][144]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:454][145]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:479][146]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:499][147]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:533][148]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:555][149]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:581][150]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:604][151]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:635][152]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:662][153]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:682][154]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:716][155]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:738][156]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:763][157]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:784][158]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:817][159]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:838][160]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:866][161]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:894][162]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:914][163]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:949][164]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:969][165]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.34:994][166]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:015][167]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:053][168]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:074][169]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:102][170]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:129][171]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:149][172]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:181][173]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:203][174]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:227][175]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:249][176]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:283][177]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:311][178]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:332][179]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:366][180]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:394][181]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:421][182]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:448][183]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:477][184]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:504][185]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:530][186]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:556][187]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:586][188]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:614][189]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:636][190]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:668][191]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:688][192]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:715][193]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:741][194]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:762][195]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:796][196]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:859][197]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:876][198]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:896][199]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:922][200]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:950][201]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:977][202]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.35:998][203]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:032][204]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:060][205]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:086][206]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:113][207]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:133][208]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:165][209]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:186][210]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:213][211]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:234][212]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:267][213]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:293][214]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:315][215]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:353][216]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:374][217]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:427][219]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:448][220]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:482][221]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:510][222]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:536][223]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:564][224]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:590][225]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:619][226]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:645][227]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:665][228]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:698][229]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:719][230]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:746][231]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:766][232]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:799][233]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:820][234]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:844][235]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:864][236]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:898][237]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:919][238]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:944][239]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.36:966][240]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:000][241]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:021][242]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:046][243]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:067][244]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:100][245]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:126][246]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:148][247]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:181][248]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:209][249]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:236][250]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:262][251]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:281][252]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:314][253]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:336][254]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:365][255]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:392][256]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:420][257]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:447][258]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:470][259]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:501][260]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:527][261]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:550][262]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:582][263]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:610][264]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:637][265]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:666][266]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:694][267]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:717][268]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:751][269]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:779][270]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:801][271]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:833][272]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:855][273]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:884][274]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:912][275]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:932][276]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:966][277]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.37:988][278]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:014][279]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:039][280]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:070][281]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:097][282]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:120][283]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:151][284]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:178][285]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:198][286]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:232][287]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:253][288]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:278][289]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:299][290]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:333][291]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:353][292]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:379][293]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:401][294]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:434][295]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:459][296]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:481][297]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:516][298]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:542][299]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:565][300]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:600][301]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:626][302]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:647][303]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:682][304]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:710][305]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:732][306]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:765][307]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:792][308]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:817][309]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:848][310]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:877][311]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:902][312]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:930][313]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:952][314]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.38:984][315]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.39:009][316]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.39:031][317]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.39:065][318]LogBlueprintUserMessages: [BP_Pigeon_C_0] /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_EnemyMudMonster_C_5
+[2024.06.07-09.01.39:585][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Character/BP_Postman.BP_Postman_C:ExecuteUbergraph_BP_Postman'!
+[2024.06.07-09.01.39:585][337]LogScript: Warning: Script Msg called by: BP_Postman_C /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_Postman_C_0
+[2024.06.07-09.01.40:197][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Character/BP_Postman.BP_Postman_C:ExecuteUbergraph_BP_Postman'!
+[2024.06.07-09.01.40:197][360]LogScript: Warning: Script Msg called by: BP_Postman_C /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_Postman_C_0
+[2024.06.07-09.01.40:389][367]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Character/BP_Postman.BP_Postman_C:ExecuteUbergraph_BP_Postman'!
+[2024.06.07-09.01.40:390][367]LogScript: Warning: Script Msg called by: BP_Postman_C /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest:PersistentLevel.BP_Postman_C_0
+[2024.06.07-09.01.54:903][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-09.01.54:903][915]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.01.54:905][915]LogWorld: UWorld::CleanupWorld for Level1_LevelConstruction1_MiaTest, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-09.01.54:913][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-09.01.54:920][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-09.01.54:930][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-09.01.54:947][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-09.01.54:948][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.07-09.01.54:948][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.07-09.01.54:950][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.07-09.01.54:979][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.06.07-09.01.55:144][916]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.06.07-09.02.07:028][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.02.07:158][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.07-09.02.07:792][381]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.07:792][381]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTesE4CF8C244E2263A39F1481AE057C937B.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-09.02.07:811][381]LogFileHelpers: All files are already saved.
+[2024.06.07-09.02.07:811][381]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.728
+[2024.06.07-09.02.07:815][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 787 ms (total: 21.3 sec)
+[2024.06.07-09.02.07:821][381]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.07:821][381]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.10:097][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.02.10:228][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.07-09.02.10:864][467]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.10:865][467]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTes37B6985544C1894154D287B7FE8C71DB.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-09.02.10:883][467]LogFileHelpers: All files are already saved.
+[2024.06.07-09.02.10:884][467]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.738
+[2024.06.07-09.02.10:889][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 792 ms (total: 22.1 sec)
+[2024.06.07-09.02.10:897][467]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.10:897][467]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.14:839][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-09.02.14:974][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.07-09.02.15:603][613]LogSavePackage: Moving output files for package: /Game/Levels/Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.15:604][613]LogSavePackage: Moving '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Saved/Level1_LevelConstruction1_MiaTes056C77A842CE2732639AFE8FAB205AD6.tmp' to '../../../../../../Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest.umap'
+[2024.06.07-09.02.15:623][613]LogFileHelpers: All files are already saved.
+[2024.06.07-09.02.15:623][613]LogFileHelpers: Saving map 'Level1_LevelConstruction1_MiaTest' took 0.729
+[2024.06.07-09.02.15:630][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 790 ms (total: 22.9 sec)
+[2024.06.07-09.02.15:637][613]AssetCheck: New page: Asset Save: Level1_LevelConstruction1_MiaTest
+[2024.06.07-09.02.15:637][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1_LevelConstruction1_MiaTest.Level1_LevelConstruction1_MiaTest
