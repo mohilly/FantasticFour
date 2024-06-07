@@ -1914,3 +1914,14 @@ Exception rethrown at [0]:
 [2024.06.07-08.42.47:779][277]LogWorld: UWorld::CleanupWorld for Level1_LevelConstruction, bSessionEnded=true, bCleanupResources=true
 [2024.06.07-08.42.49:996][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.06.07-08.42.57:283][277]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.07-08.43.06:058][277]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.07-08.43.06:058][277]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.07-08.43.06:078][277]LogAudio: Display: Audio Device unregistered from world 'Level1_LevelConstruction'.
+[2024.06.07-08.43.06:383][277]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.07-08.43.06:821][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.07-08.43.06:974][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.07-08.43.08:545][277]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.07-08.43.08:562][277]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.06.07-08.43.11:066][277]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.07-08.43.11:091][277]LogExit: Preparing to exit.
+[2024.06.07-08.43.18:299][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
