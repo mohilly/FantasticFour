@@ -5167,3 +5167,77 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.19-14.56.40:837][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PostShedFences_Auto1
 [2024.06.19-14.56.40:837][488]LogSavePackage: Moving '../../../../../../Users/Harx/Documents/GitHub/FantasticFour/PeasantPost/Saved/PostShedFences_Auto19B6A75ED479D959ADA7651B637EF7C75.tmp' to '../../../../../../Users/Harx/Documents/GitHub/FantasticFour/PeasantPost/Saved/Autosaves/Game/Assets/PostShedFences_Auto1.uasset'
 [2024.06.19-14.56.41:019][488]LogFileHelpers: Auto-saving content packages took 0.371
+[2024.06.19-15.30.15:681][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.06.19-15.30.17:567][533]LogSlate: Window 'Save Content' being destroyed
+[2024.06.19-15.30.17:579][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.19-15.30.17:614][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PostShedFences" FILE="../../../../../../Users/Harx/Documents/GitHub/FantasticFour/PeasantPost/Content/Assets/PostShedFences.uasset" SILENT=true
+[2024.06.19-15.30.17:648][533]LogSavePackage: Moving output files for package: /Game/Assets/PostShedFences
+[2024.06.19-15.30.17:648][533]LogSavePackage: Moving '../../../../../../Users/Harx/Documents/GitHub/FantasticFour/PeasantPost/Saved/PostShedFences4FD3D73B4C2B14E3D3088AA416E4E27E.tmp' to '../../../../../../Users/Harx/Documents/GitHub/FantasticFour/PeasantPost/Content/Assets/PostShedFences.uasset'
+[2024.06.19-15.30.17:661][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:09 min)
+[2024.06.19-15.30.17:700][533]LogStall: Shutdown...
+[2024.06.19-15.30.17:847][533]LogStall: Shutdown complete.
+[2024.06.19-15.30.19:366][533]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.19:366][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.19:636][533]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.19:636][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:280][533]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:280][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:307][533]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:307][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:675][533]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:675][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:693][533]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:693][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:982][533]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:982][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.21:999][533]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.21:999][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.22:398][533]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.22:398][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.22:418][533]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.22:418][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.23:856][533]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.23:856][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.25:305][533]LogSlate: Window 'PeasantPost - Unreal Editor' being destroyed
+[2024.06.19-15.30.26:419][533]AssetCheck: New page: Asset Save: PostShedFences
+[2024.06.19-15.30.26:419][533]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/PostShedFences.PostShedFences
+[2024.06.19-15.30.26:422][533]LogAutomationController: Ignoring very large delta of 11.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.19-15.30.26:455][534]Cmd: QUIT_EDITOR
+[2024.06.19-15.30.26:563][534]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.19-15.30.26:860][534]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.19-15.30.26:960][534]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.19-15.30.26:996][534]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.19-15.30.27:427][534]LogWorld: UWorld::CleanupWorld for NEWLEVELCONSTRUCTION, bSessionEnded=true, bCleanupResources=true
+[2024.06.19-15.30.27:427][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.19-15.30.28:454][534]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.19-15.30.30:528][534]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.19-15.30.30:528][534]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.19-15.30.30:528][534]LogAudio: Display: Audio Device unregistered from world 'NEWLEVELCONSTRUCTION'.
+[2024.06.19-15.30.30:528][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.19-15.30.30:561][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.19-15.30.30:587][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.19-15.30.30:916][534]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.19-15.30.30:954][534]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.06.19-15.30.31:342][534]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.19-15.30.31:406][534]LogExit: Preparing to exit.
+[2024.06.19-15.30.32:783][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.19-15.30.32:793][534]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.32:793][534]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.32:994][534]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:018][534]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:018][534]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:018][534]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:018][534]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:018][534]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:019][534]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:020][534]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:020][534]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:043][534]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:043][534]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:069][534]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.19-15.30.33:070][534]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
