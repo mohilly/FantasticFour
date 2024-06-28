@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/level_test2.umap",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/BaseEnemy/BP_EnemyBasicChar.uasset",
-				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BP_AIC_EnemyBasic.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Decorators/BTD_IsAttacking.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/PrototypeLevel1.umap",
@@ -131,6 +130,9 @@
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/AIControllers/BP_AIC_Chameleon_Child.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/AIControllers/BP_AIC_MudMonster_Child.uasset",
 				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/AIControllers/BP_AIC_GoblinArcher_Child.uasset",
+				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/Tasks/BTT_Jitter.uasset",
+				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Levels/Level1_LevelConstruction1_MiaTest_BuiltData.uasset",
+				"C:/Users/ad9235/Documents/GitHub/FantasticFour/PeasantPost/Content/Enemies/AI/BP_AIC_EnemyBasic.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Red.uasset",
 				"C:/Users/SAM/Desktop/FantasticFour/PeasantPost/Content/Character/Postman_Sprites/Cardboard_Box_PNG_Clip_Art_Image-2761.uasset",
 				"C:/Users/SAM/Desktop/FantasticFour/PeasantPost/Content/Character/BP_Parcel.uasset",
