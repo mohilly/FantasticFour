@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeasantPostModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13318347af0a4eb46a56fea6268b9f3356056203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fb7e9af153b99e07595cdab970e1f6fde6b1b22")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeasantPostModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeasantPostModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

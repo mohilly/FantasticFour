@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PeasantPostModuleRules
-build_property.ProjectDir = C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\BuildRulesProjects\PeasantPostModuleRules\
+build_property.ProjectDir = C:\Users\SAM\Desktop\FantasticFour\PeasantPost\Intermediate\Build\BuildRulesProjects\PeasantPostModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

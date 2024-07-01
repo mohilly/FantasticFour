@@ -11,8 +11,10 @@
     <None Include="..\..\Source\PeasantPostEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\PeasantPost.png" />
+    <None Include="..\..\shadertoolsconfig.json" />
     <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -47,6 +49,5 @@
     <ClInclude Include="..\..\Source\PeasantPost\PeasantPost.h">
       <Filter>Source\PeasantPost</Filter>
     </ClInclude>
-    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>

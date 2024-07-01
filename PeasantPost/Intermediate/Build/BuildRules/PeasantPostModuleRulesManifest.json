@@ -1,8 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ad9235\\Documents\\GitHub\\FantasticFour\\PeasantPost\\Source\\PeasantPost\\PeasantPost.Build.cs",
-		"C:\\Users\\ad9235\\Documents\\GitHub\\FantasticFour\\PeasantPost\\Source\\PeasantPost.Target.cs",
-		"C:\\Users\\ad9235\\Documents\\GitHub\\FantasticFour\\PeasantPost\\Source\\PeasantPostEditor.Target.cs"
+		"C:\\Users\\SAM\\Desktop\\FantasticFour\\PeasantPost\\Source\\PeasantPost.Target.cs",
+		"C:\\Users\\SAM\\Desktop\\FantasticFour\\PeasantPost\\Source\\PeasantPostEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
