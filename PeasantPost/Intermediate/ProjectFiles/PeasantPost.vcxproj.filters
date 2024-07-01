@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PeasantPost.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PeasantPost.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PeasantPostEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\PeasantPost.png" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PeasantPost">
+      <UniqueIdentifier>{BAD537D9-DE9C-382F-BD99-A5182C717FF6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PeasantPost\MyActor.cpp">
+      <Filter>Source\PeasantPost</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PeasantPost\MyActor.h">
+      <Filter>Source\PeasantPost</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PeasantPost\PeasantPost.Build.cs">
+      <Filter>Source\PeasantPost</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PeasantPost\PeasantPost.cpp">
+      <Filter>Source\PeasantPost</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PeasantPost\PeasantPost.h">
+      <Filter>Source\PeasantPost</Filter>
+    </ClInclude>
+    <None Include=".editorconfig" />
+  </ItemGroup>
+</Project>

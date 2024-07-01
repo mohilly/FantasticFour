@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PeasantPost.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\PeasantPostEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\MyActor.gen.cpp.obj"
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\PeasantPost.init.gen.cpp.obj"
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\MyActor.cpp.obj"
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\PeasantPost.cpp.obj"
+"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\Default.rc2.res"
+/OUT:"C:\Users\ad9235\Documents\GitHub\FantasticFour\PeasantPost\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeasantPost\UnrealEditor-PeasantPost.lib"

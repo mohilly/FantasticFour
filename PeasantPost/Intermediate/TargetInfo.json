@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PeasantPost",
+			"Path": "..\\Source\\PeasantPost.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PeasantPostEditor",
+			"Path": "..\\Source\\PeasantPostEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
