@@ -1,5 +1,9 @@
 {
 	"SourceFiles": [
+<<<<<<< Updated upstream
+=======
+		"C:\\Users\\SAM\\Desktop\\FantasticFour\\PeasantPost\\Source\\PeasantPost\\PeasantPost.Build.cs",
+>>>>>>> Stashed changes
 		"C:\\Users\\SAM\\Desktop\\FantasticFour\\PeasantPost\\Source\\PeasantPost.Target.cs",
 		"C:\\Users\\SAM\\Desktop\\FantasticFour\\PeasantPost\\Source\\PeasantPostEditor.Target.cs"
 	],

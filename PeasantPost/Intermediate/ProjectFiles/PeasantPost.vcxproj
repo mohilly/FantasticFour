@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{32082C37-E7C6-3CBD-A8A9-15787C2B9782}</ProjectGuid>
+    <ProjectGuid>{9108774E-9304-3E82-BAC8-BB1AD84B6A20}</ProjectGuid>
     <RootNamespace>PeasantPost</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
