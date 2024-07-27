@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f14a4ebd-af50-4b93-bfd5-a4687945f602}">
+		<property name="assetPath">
+			<value>BitePlayer.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51824999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fbbd2a6-bf97-4113-b2e5-4aab0b19bbbc}</destination>
+		</relationship>
+	</object>
+</objects>
